@@ -1,10 +1,9 @@
 # DIO - Trilha Java Básico
-www.dio.me
 
-#### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
 
-## Controle de Fluxo - Desafio
+### Para acessar o arquivo do desafio, clique  [aqui](https://github.com/akranz79/DesafioControleFluxo/blob/master/DesafioControleFluxo/src/controle_fluxo/Contador.java)
+
+## Desafio: Controle de Fluxo 
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
 
